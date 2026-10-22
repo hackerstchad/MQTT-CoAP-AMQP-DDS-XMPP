@@ -13,7 +13,6 @@ MQTT, CoAP, AMQP, DDS, XMPP
 <p align="center">
   <img src="https://img.shields.io/badge/Auteur-hackers__tchad-00ff00?style=for-the-badge&logoColor=black" alt="Auteur">
   <img src="https://img.shields.io/badge/Version-1.0.0-00ff00?style=for-the-badge&logoColor=black" alt="Version">
-  <img src="https://img.shields.io/badge/Lignes-2000+-00ff00?style=for-the-badge&logoColor=black" alt="Lignes">
 </p>
 
 </div>
