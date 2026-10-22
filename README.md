@@ -1,17 +1,6 @@
-<div align="center">
+MQTT, CoAP, AMQP, DDS, XMPP
 
-```
- ███╗   ███╗ ██████╗ ████████╗ ██████╗ ██████╗  ██████╗ ██╗      ███████╗
- ████╗ ████║██╔═══██╗╚══██╔══╝██╔═══██╗██╔══██╗██╔═══██╗██║      ██╔════╝
- ██╔████╔██║██║   ██║   ██║   ██║   ██║██████╔╝██║   ██║██║      ███████╗
- ██║╚██╔╝██║██║▄▄ ██║   ██║   ██║   ██║██╔══██╗██║   ██║██║      ╚════██║
- ██║ ╚═╝ ██║╚██████╔╝   ██║   ╚██████╔╝██║  ██║╚██████╔╝███████╗ ███████║
- ╚═╝     ╚═╝ ╚══▀▀═╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚══════╝
-```
-
-# <span style="color:#00ff00; text-shadow: 0 0 10px #00ff00;">📡 PROTOCOLES DE COMMUNICATION IoT & MESSAGERIE AVANCÉS</span>
-
-### <span style="color:#00ff41;">MQTT • CoAP • AMQP • DDS • XMPP</span>
+<img width="800" height="400" alt="iot-protocols-2" src="https://github.com/user-attachments/assets/e92474cc-b29e-4977-8657-b7716c09650d" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/MQTT-Protocol-00ff00?style=for-the-badge&logoColor=white" alt="MQTT">
@@ -29,37 +18,8 @@
 
 </div>
 
----
 
-## 🎨 Animation Matrix Green
-
-```css
-/* Style Matrix Green pour rendu web */
-.matrix-green {
-    color: #00ff00;
-    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 20px #00ff41;
-    font-family: 'Courier New', monospace;
-    animation: matrixPulse 2s infinite alternate;
-}
-
-@keyframes matrixPulse {
-    0% { opacity: 0.8; text-shadow: 0 0 5px #00ff00; }
-    50% { opacity: 1; text-shadow: 0 0 20px #00ff41, 0 0 30px #00ff00; }
-    100% { opacity: 0.9; text-shadow: 0 0 10px #00cc00; }
-}
-```
-
-```html
-<!-- Code HTML pour animation Matrix -->
-<div class="matrix-green">
-    <h1>📡 PROTOCOLES IoT AVANCÉS</h1>
-    <p>MQTT • CoAP • AMQP • DDS • XMPP</p>
-</div>
-```
-
----
-
-## 📋 Table des matières
+## Table des matières
 
 1. [Introduction générale](#introduction-générale)
 2. [MQTT (Message Queuing Telemetry Transport)](#mqtt-message-queuing-telemetry-transport)
